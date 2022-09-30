@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
